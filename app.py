@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 dic = {0 : 'Negative', 1 : 'Positive'}
 
-model = load_model('model.h5')
+model = load_model('Trained_model/model.h5')
 
 model.make_predict_function()
 
