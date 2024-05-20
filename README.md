@@ -101,12 +101,12 @@ To run this project locally, follow these steps:
 The model achieved significant accuracy in detecting COVID-19 from X-ray images. Detailed results and performance metrics can be found in the `results` folder.
 
 ## Contributors
-- **Sabbahi Mohamed Amine** - [Github](https://github.com/amine-sabbahi)
+- **SABBAHI Mohamed Amine** - [Github](https://github.com/amine-sabbahi)
 
 ---
 
-**Université Abdelmalek Essaadi** Faculté des Sciences de Tetouan
+**Université Abdelmalek Essaadi** - Faculté des Sciences de Tetouan
    - Département : Génie Informatique
    - Licence : Science Math Informatique
-   - Sujet : Projet du fin d'etude
+   - Sujet : Projet de fin d'étude
    - Encadré par : Pr . ABDOUN OTMANE
