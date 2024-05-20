@@ -8,6 +8,7 @@ This repository contains the code and documentation for the final year project t
 - [Objective](#objective)
 - [Importance of AI](#importance-of-ai)
 - [Project Structure](#project-structure)
+- [Technologies and Tools Used](#Technologies-and-Tools-Used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
@@ -47,6 +48,15 @@ Artificial intelligence, particularly deep learning, has shown significant poten
 ├── app.py                       # Flask application script
 └── requirements.txt             # List of required Python packages
 ```
+## Technologies and Tools Used
+   - Programming Languages: Python
+   - Deep Learning Frameworks: TensorFlow, Keras
+   - Web Framework: Flask
+   - Data Processing and Analysis: NumPy, Pandas
+   - Visualization: Matplotlib, Seaborn
+   - Model Deployment: Flask
+   - Version Control: Git
+   - IDE: Jupyter Notebook, Visual Studio Code
 
 ## Installation
 To run this project locally, follow these steps:
@@ -98,5 +108,5 @@ The model achieved significant accuracy in detecting COVID-19 from X-ray images.
 **Université Abdelmalek Essaadi** Faculté des Sciences de Tetouan
    - Département : Génie Informatique
    - Licence : Science Math Informatique
-   - Suejt : Projet du fin d'etude
+   - Sujet : Projet du fin d'etude
    - Encadré par : Pr . ABDOUN OTMANE
