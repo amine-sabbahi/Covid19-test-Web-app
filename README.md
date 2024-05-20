@@ -27,12 +27,26 @@ The main objective of this project is to develop a CNN-based model to detect COV
 Artificial intelligence, particularly deep learning, has shown significant potential in medical imaging. This project leverages AI to enhance the accuracy and speed of COVID-19 detection, which is crucial in controlling the spread of the virus.
 
 ## Project Structure
-The project is organized as follows:
-1. **Introduction**: Overview of the project, problem statement, and objectives.
-2. **General Information on AI**: Basics of artificial intelligence and deep learning.
-3. **Implementation of the Base Model**: Development and training of the CNN model.
-4. **Results and Web Application Deployment**: Evaluation of the model and deployment in a web application.
-5. **Conclusion and Future Work**: Summary of the project and potential future enhancements.
+
+```
+├── Proposed models              # Directory containing proposed model versions and sample images
+│   ├── Proposed model N01       # Proposed model version 01
+│   ├── Proposed model N02       # Proposed model version 02
+│   ├── Proposed model N03       # Proposed model version 03
+│   ├── negative patient.png     # Sample X-ray image of a negative COVID-19 patient
+│   ├── negative.jpeg            # Another sample X-ray image of a negative COVID-19 patient
+│   ├── positive patient.png     # Sample X-ray image of a positive COVID-19 patient
+│   ├── positive.jpg             # Another sample X-ray image of a positive COVID-19 patient
+│   └── test code.png            # Sample code or image for testing purposes
+├── Trained_model                # Directory containing the trained model
+│   └── model.h5                 # The trained model file in HDF5 format
+├── static                       # Directory for static files (CSS, JavaScript, images)
+├── templates                    # Directory for HTML templates
+│   └── index.html               # Main HTML template for the web application
+├── README.md                    # Project documentation
+├── app.py                       # Flask application script
+└── requirements.txt             # List of required Python packages
+```
 
 ## Installation
 To run this project locally, follow these steps:
@@ -77,7 +91,12 @@ To run this project locally, follow these steps:
 The model achieved significant accuracy in detecting COVID-19 from X-ray images. Detailed results and performance metrics can be found in the `results` folder.
 
 ## Contributors
-- **Sabbahi Mohamed Amine** - [Github](https://github.com/username)
+- **Sabbahi Mohamed Amine** - [Github](https://github.com/amine-sabbahi)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
+
+**Université Abdelmalek Essaadi** Faculté des Sciences de Tetouan
+   - Département : Génie Informatique
+   - Licence : Science Math Informatique
+   - Suejt : Projet du fin d'etude
+   - Encadré par : Pr . ABDOUN OTMANE
